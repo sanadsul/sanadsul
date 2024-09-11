@@ -4,7 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-sanad.vercel.app/](https://portfolio-sanad.vercel.app/)
 
 - 💬 Ask me about
--  **Hello! I'm [Sanad], a passionate Backend Developer with a strong foundation in building robust and scalable server-side applications. With [6] years of experience in backend development, I specialize in creating efficient and reliable systems using technologies such as [Node.js, Express.js, SQL, NoSQL, and More].**
+ **Hello! I'm [Sanad], a passionate Backend Developer with a strong foundation in building robust and scalable server-side applications. With [6] years of experience in backend development, I specialize in creating efficient and reliable systems using technologies such as [Node.js, Express.js, SQL, NoSQL, and More].**
 
 - 📫 How to reach me **Sanadsul481@gmail.com**
 
