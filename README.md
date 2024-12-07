@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SanadSuleman</h1>
-<h3 align="center">A passionate backend developer from Libya 🇱🇾</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sanad.vercel.app/](https://portfolio-sanad.vercel.app/)
 
